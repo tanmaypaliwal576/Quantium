@@ -98,6 +98,3 @@ It does **not** represent employment with Quantium, but reflects **company-desig
 **Tanmay Paliwal**  
 B.Tech Computer Science Student  
 Aspiring Software Engineer | Full-Stack & Data Enthusiast
-
-## 📂 Project Structure
-
